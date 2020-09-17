@@ -16,7 +16,7 @@ Tất cả những file liên quan tới buổi học hôm đó (chẳng hạn n
 <a href="https://codelearn.io/home">Practice</a>  
 Dùng Codelearn.io để luyện tập hàng ngày. 
 
-<p>Euler projects account: Jiswoo </p>
+<p>Codelearn.io account: Jiswoo </p>
 
 <a href ="https://codelearn.io/profile/3571247"> Information </a>
 
