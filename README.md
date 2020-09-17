@@ -13,7 +13,7 @@ Mỗi thư mục sẽ được đặt tên là "Section" + X tương ứng với
 Tất cả những file liên quan tới buổi học hôm đó (chẳng hạn như bài tập, report, tóm tắt, tài liệu ,....) đều được đặt trong thư mục của từng buổi học.
 
 # Codelearn.io
-<a href="https://codelearn.io/home">Luyen tap</a>  
+<a href="https://codelearn.io/home">Practice</a>  
 Dùng Codelearn.io để luyện tập hàng ngày. 
 
 <p>Euler projects account: Jiswoo </p>
