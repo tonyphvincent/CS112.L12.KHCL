@@ -23,6 +23,16 @@ Dùng Codelearn.io để luyện tập hàng ngày.
 
 -----------------------------
 
+# Project Euler
+<a href="https://projecteuler.net/">Practice</a>  
+Dùng Project Euler để luyện tập hàng ngày. 
+
+<p>Account: tobics112 </p>
+<p>Password: 12345678 </p>
+
+<a href ="https://projecteuler.net/account"> Information </a>
+-------------------------------------------------------
+
 <details>
 <summary>Private Information</summary>
 <h1>WeCode</h1>
