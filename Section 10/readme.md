@@ -34,7 +34,7 @@ Dùng Project Euler để luyện tập hàng ngày.
 -------------------------------------------------------
 
 <details>
-<summary>Private Information</summary>
+<summary>Private Informations</summary>
 <h1>WeCode</h1>
 <a href="https://khmt.uit.edu.vn/laptrinh/cs112-2021/login">wecode assignment</a>
 <p>username: <i>Nhóm 15 - CS112.L12.KHCL</i></p>
