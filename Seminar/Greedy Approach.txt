@@ -1,0 +1,15 @@
+1. Đặt vấn đề
+	PROBLEM Là gì??
+	-> dẫn dắt đến Solution(--> best solution)
+		=> Nhanh, đơn giản, hiệu quả ==> Vấn đề cần tối ưu(Optimization Problem)
+   -> đưa ra ý tưởng Greedy(tham lam)-->các thuật toán Greedy Alglorithrms
+2. Cơ sở lý thuyết và bài tập
+	2.1 Khái niệm
+	2.2 Phương pháp cài đặt
+	2.3 Bài tập điển hình
+2.4 Kêt
+3. Ứng dụng
+	3.1 Thuật toán DIJKSTRA
+	3.2 HEURISTIC
+KẾT LUẬN
+TÀI LIỆU THAM KHẢO
